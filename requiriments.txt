@@ -1,0 +1,7 @@
+nicegui
+openai-whisper
+gTTS
+ffmpeg-python
+sounddevice
+soundfile
+ollama
